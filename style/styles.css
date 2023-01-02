@@ -1,0 +1,46 @@
+p {
+    width: 75%;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    border-top: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: chartreuse;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#ashik {
+    color: brown;
+}
+
+.ashik1 {
+    background-color: wheat;
+}
+
+#listcolor {
+    width: 75%;
+    font-weight: 700;
+}
+
+ul li {
+    color: rgb(159, 71, 156)
+}
+
+h3{
+    color: rgb(11, 89, 138);
+    width: 400px;
+    font-size: 20px;
+    text-decoration: underline wavy red;
+}
+
+a{
+    text-decoration: none;
+}
+
+span{
+    border: 5px solid red;
+    border-radius: 5px;
+}
